@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · sZJLp13L -->
-## Notification 1/2
-Round: Round 1
-To: lucy.hemerly@nisd.net, thucvinhsj@yahoo.com
-At: 2026-09-16 15:46:57
-Id: sZJLp13L
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: ssradford@juno.com, djr@memorablemeetings.com
+At: 2026-09-16 15:47:06
+Id: QpqVJhXz
